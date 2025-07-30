@@ -32,21 +32,19 @@
 ---
 
 ## 🗂️ تمرین‌ها
-
-| عنوان تمرین                          | لینک فایل |
-|--------------------------------------|------------|
-| الگوریتم و تحلیل مرتبه‌ی زمانی       | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/01-algorithm-and-time-complexity.pdf) |
-| آرایه                                 | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/02-arrays.pdf) |
-| لیست پیوندی                           | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/03-linked-list.pdf) |
-| پشته                                  | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/04-stack.pdf) |
-| صف                                    | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/05-queue.pdf) |
-| هرم و درخت دودویی                    | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/06-heap-and-binary-tree.pdf) |
-| هش                                    | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/07-hashing.pdf) |
-| درخت‌های جستجو                        | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/08-search-trees.pdf) |
-| الگوریتم‌های مرتب‌سازی               | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/09-sorting.pdf) |
-| گراف                                  | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/10-graph.pdf) |
-| نوروز (تمرین ویژه الگوریتمی - سوالات مصاحبه‌ای ۵ شرکت بزرگ جهانی FAANG) | [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/11-nowruz.pdf) |
-
+| <div align="center">عنوان تمرین</div>                                                                 | <div align="center">لینک فایل</div> |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------|
+| <div align="center">الگوریتم و تحلیل مرتبه‌ی زمانی</div>                                             | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/01-algorithm-and-time-complexity.pdf)</div> |
+| <div align="center">آرایه</div>                                                                        | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/02-arrays.pdf)</div> |
+| <div align="center">لیست پیوندی</div>                                                                  | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/03-linked-list.pdf)</div> |
+| <div align="center">پشته</div>                                                                         | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/04-stack.pdf)</div> |
+| <div align="center">صف</div>                                                                           | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/05-queue.pdf)</div> |
+| <div align="center">هرم و درخت دودویی</div>                                                            | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/06-heap-and-binary-tree.pdf)</div> |
+| <div align="center">هش</div>                                                                           | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/07-hashing.pdf)</div> |
+| <div align="center">درخت‌های جستجو</div>                                                               | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/08-search-trees.pdf)</div> |
+| <div align="center">الگوریتم‌های مرتب‌سازی</div>                                                      | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/09-sorting.pdf)</div> |
+| <div align="center">گراف</div>                                                                         | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/10-graph.pdf)</div> |
+| <div align="center">نوروز (تمرین ویژه الگوریتمی - سوالات مصاحبه‌ای ۵ شرکت بزرگ جهانی FAANG)</div>   | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/11-nowruz.pdf)</div> |
 ---
 
 ## 📝 ارزیابی
