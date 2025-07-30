@@ -18,7 +18,6 @@
 - پارسا دولت‌آبادی – طراح تمرین  
 - کیارش کامرانی – طراح تمرین
 
----
 
 ## 🧠 اهداف آموزشی پروژه
 
@@ -42,7 +41,8 @@
 | <div align="center">الگوریتم‌های مرتب‌سازی</div>                                                      | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/09-sorting.pdf)</div> |
 | <div align="center">گراف</div>                                                                         | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/10-graph.pdf)</div> |
 | <div align="center">نوروز (تمرین ویژه الگوریتمی - سوالات مصاحبه‌ای ۵ شرکت بزرگ جهانی FAANG)</div>   | <div align="center">[مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/assignments/11-nowruz.pdf)</div> |
----
+
+
 
 ## 📝 ارزیابی
 
