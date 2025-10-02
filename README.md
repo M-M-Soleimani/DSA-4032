@@ -50,9 +50,7 @@
 📄 [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/exams/14032-midterm.pdf)
 
 ### آزمون پایان‌ترم
-📄 [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/exams/14032-final.pdf)
-)
-
+📄 [مشاهده فایل](https://github.com/M-M-Soleimani/dsa-4032/blob/main/exams/14032-final.pdf) 
 
 ## 📘 مستندات آموزشی
 
